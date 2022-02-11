@@ -16,5 +16,6 @@ public class GitTest {
         System.out.println("hot-fix 合并分支出现冲突测试!");
         System.out.println("push remote test");
         System.out.println("pull test");
+        System.out.println("来自github的更新......");
     }
 }
