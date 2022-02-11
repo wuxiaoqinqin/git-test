@@ -13,5 +13,6 @@ public class GitTest {
         System.out.println("hello git3!");
         System.out.println("hello git4 hot-fix 合并分支测试!");
         System.out.println("master 合并分支出现冲突测试!");
+        System.out.println("hot-fix 合并分支出现冲突测试!");
     }
 }
